@@ -6,6 +6,9 @@ works like the standard bogosort, except lower numbers are weighted to be shuffl
 
 in other words, in an array of 10 numbers, 1 is more likely to be at the end, while 10 is more likely to be at the beginning.
 
+## why?
+bogosort is too easy for my computer
+
 ## benchmarks
 ```
 +----+---------------+
